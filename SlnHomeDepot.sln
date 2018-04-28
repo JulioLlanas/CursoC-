@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CN", "CN\CN.csproj", "{A0A6FE79-CA53-45E1-9201-F5474D4114EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CD", "CD\CD.csproj", "{552CA517-4CCD-4E8C-8B8F-FFFCE2E4028D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeDepot", "HomeDepot\HomeDepot.csproj", "{D16D8BCD-D709-40D4-866A-5583D0630360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A6FE79-CA53-45E1-9201-F5474D4114EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A6FE79-CA53-45E1-9201-F5474D4114EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A6FE79-CA53-45E1-9201-F5474D4114EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A6FE79-CA53-45E1-9201-F5474D4114EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{552CA517-4CCD-4E8C-8B8F-FFFCE2E4028D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552CA517-4CCD-4E8C-8B8F-FFFCE2E4028D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552CA517-4CCD-4E8C-8B8F-FFFCE2E4028D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552CA517-4CCD-4E8C-8B8F-FFFCE2E4028D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D16D8BCD-D709-40D4-866A-5583D0630360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16D8BCD-D709-40D4-866A-5583D0630360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16D8BCD-D709-40D4-866A-5583D0630360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16D8BCD-D709-40D4-866A-5583D0630360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
